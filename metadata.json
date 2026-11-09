@@ -1,0 +1,6 @@
+{
+  "name": "Rio",
+  "description": "Universal AI Film Director Master System for Human-Like Acting, Professional Cinematography, and Intelligent Script Analysis",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
